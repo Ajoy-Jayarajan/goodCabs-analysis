@@ -102,7 +102,7 @@ This database supports performance evaluation by comparing actual results agains
 
 ## Data Model
 The dataset follows a star-schema design where fact_trips serves as the primary fact table containing trip-level information such as fare amount, distance traveled, passenger ratings, and driver ratings.
-![data_model](images\data_model.png)
+![data_model](images/data_model.png)
 
 ## Key Metrics Calculated
 ### Operational Metrics
@@ -139,10 +139,10 @@ The dataset follows a star-schema design where fact_trips serves as the primary 
 
 ## Dashboard Pages
 ### Executive Summary
-![executive_summary](images\executive_summary_dashboard.png)
+![executive_summary](images/executive_summary_dashboard.png)
 
 ### City Performance Dashboard
-![city_performance](images\city_wise_performance_dashboard.png)
+![city_performance](images/city_wise_performance_dashboard.png)
 
 ## Key Insights
 ### Customer Retention Insights
